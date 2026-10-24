@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="holabro/src"/>
+	<classpathentry kind="src" path="HolaMundo/src"/>
+	<classpathentry kind="src" path="Lab3_Control/src"/>
+	<classpathentry kind="src" path="MyOutputVariableProject/src"/>
+	<classpathentry kind="src" path="MyOutputVariableProjectBackup/src"/>
+	<classpathentry kind="src" path="Prueba/src"/>
+	<classpathentry kind="src" path="Tienda/src"/>
+	<classpathentry kind="lib" path="MyOutputVariableProject/RunnableMyOutputVariableProject.jar"/>
+	<classpathentry kind="lib" path="MyOutputVariableProjectBackup/RunnableMyOutputVariableProject.jar"/>
+	<classpathentry kind="output" path="HolaMundo/bin"/>
+</classpath>
